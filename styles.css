@@ -61,7 +61,7 @@
     }
 }
 
-#heroSection, #experienceSection {
+#heroSection, #experienceSection, #projects {
     padding: 6em 0;
 }
 
@@ -74,7 +74,7 @@
     justify-content: center;
     height: 3.7rem;
     width: 3.7rem;
-    background-color: #495057;
+    background-color: #84be10;
     color: #fff;
     border-radius: 100%;
     font-size: 1.7rem;
@@ -87,7 +87,7 @@
 
 .social-icons .social-icon:hover {
     background-color: #06a0a5;
-    transition: 0.2s;
+    transition: 0.25s;
 }
 
 .dev-icons {
